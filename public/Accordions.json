@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "titile":"What is Skillex?",
+        "content":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, autem? Obcaecati vel architecto nihil quaerat necessitatibus neque reprehenderit natus sequi consequuntur ipsum repellat optio mollitia non, temporibus aspernatur."
+    },
+    {
+        "id":2,
+        "titile":"What Can I Learn from Skillex?",
+        "content":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, autem? Obcaecati vel architecto nihil quaerat necessitatibus neque reprehenderit natus sequi consequuntur ipsum repellat optio mollitia non, temporibus aspernatur."
+    },
+    {
+        "id":3,
+        "titile":"Can I Teach on Skillex?",
+        "content":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, autem? Obcaecati vel architecto nihil quaerat necessitatibus neque reprehenderit natus sequi consequuntur ipsum repellat optio mollitia non, temporibus aspernatur."
+    },
+    {
+        "id":4,
+        "titile":"What is included in my Skillex membership?",
+        "content":" Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium, autem? Obcaecati vel architecto nihil quaerat necessitatibus neque reprehenderit natus sequi consequuntur ipsum repellat optio mollitia non, temporibus aspernatur."
+    }
+]

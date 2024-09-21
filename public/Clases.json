@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "image": "../public/images/web design.jpg",
+        "catagory":"Web Design",
+        "title":"The Complete Web Design Course",
+        "rating":4.9,
+        "participants":500,
+        "price":105
+    },
+    {
+        "id":2,
+        "image": "../public/images/web development.jpg",
+        "catagory":"Web Development",
+        "title":"FullStack Web Development Course",
+        "rating":4.8,
+        "participants":700,
+        "price":125
+    },
+    {
+        "id":3,
+        "image": "../public/images/graphic.jpg",
+        "catagory":"Web Devolpment",
+        "title":"Python Beginner to Advanced Course",
+        "rating":4.9,
+        "participants":300,
+        "price":99
+    },
+    {
+        "id":4,
+        "image": "../public/images/css2.jpg",
+        "catagory":"Web Design",
+        "title":"UI/UX Design Crazy Course With Harrys",
+        "rating":4.7,
+        "participants":600,
+        "price":85
+    },
+    {
+        "id":5,
+        "image": "../public/images/AI development.jpg",
+        "catagory":"AI Development",
+        "title":"AI Devolpment With Python (complete AI course) ",
+        "rating":4.9,
+        "participants":400,
+        "price":115
+    },
+    
+
+    {
+        "id":6,
+        "image": "../public/images/digital.jpg",
+        "catagory":"Web Design",
+        "title":"The Complete Web Design Course",
+        "rating":4.6,
+        "participants":400,
+        "price":105
+    },
+    {
+        "id":7,
+        "image": "../public/images/html.jpg",
+        "catagory":"Web Development",
+        "title":"FullStack Web Development Course",
+        "rating":4.9,
+        "participants":800,
+        "price":130
+    },
+    {
+        "id":8,
+        "image": "../public/images/biology.jpg",
+        "catagory":"Web Design",
+        "title":"The Complete Web Design Course",
+        "rating":4.9,
+        "participants":500,
+        "price":105
+    }
+]

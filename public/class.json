@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "photo":"../public/images/html.jpg",
+        "name":"HTML",
+        "prof" :"Susan Taylor",
+        "students" :113
+       
+        },
+        {
+            "id":2,
+            "photo":"../public/images/css1.jpg",
+            "name":"CSS",
+            "prof":"Michael Brown",
+            "students":115
+            
+        },
+        {
+            "id":3,
+            "photo":"../public/images/javascript.jpg",
+            "name":"javasrcipt",
+            "prof":"John Mitchell",
+            "students":130
+            
+        },
+        {
+            "id":4,
+            "photo":"../public/images/react.jpg",
+            "name":"React.Js",
+            "prof":"Robert Clark",
+            "students":189
+           
+        },
+        {
+            "id":5,
+           "photo":"../public/images/mongo.jpg",
+             "name":"Mongo DB",
+             "prof":"Sarah Williams",
+             "students":200
+            
+        },
+        {
+            "id":6,
+            "photo":"../public/images/mysql.png",
+            "name":"MySQL",
+            "prof":"Emaily Johson",
+            "students":220
+           
+        },
+        {
+            "id":7,
+            "photo":"../public/images/python.jpg",
+            "name":"Python",
+            "prof":"Emaily Johson",
+            "students":220
+           
+        },
+{
+    "id":8,
+    "photo":"../public/images/jquery.jpg",
+    "name":"Jquery",
+    "prof":"Emaily Johson",
+    "students":220
+   
+}
+]
